@@ -1,7 +1,7 @@
 # Federated Wiki (Node.js server version)
 
 > The original wiki was written in a week and cloned within a week after that.
-> The concept was shown to be fruitful while leaving other implementers room to innovate.
+> The concept was sh own to be fruitful while leaving other implementers room to innovate.
 > When we ask for simple, we are looking for the same kind of simplicity: nothing to distract from our innovation in federation.
 > -- <cite>[Smallest Federated Wiki](https://github.com/WardCunningham/Smallest-Federated-Wiki)
 
